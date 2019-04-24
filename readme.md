@@ -226,6 +226,7 @@ Pois é, eu também tava, até que decidi ver onde os nerdões estavam. Achei al
 
 ### ELETRONICA
 - [ARDUINO, RASPBERRY, ELETRÔNICA E AFINS...](https://telegram.me/joinchat/BQwnFTxx069EQRiYyIiLJw)
+- [RETROCOMPUTAÇÃO,COMPUTADORES ANTIGOS,Z80,M68K,EMULADORES...](https://t.me/retrocomputingbr)
 
 ### DEVOPS / INFRA
 - [ANSIBLE BR](https://telegram.me/joinchat/AejjFQbucrfAUGaXAbMZFA )
